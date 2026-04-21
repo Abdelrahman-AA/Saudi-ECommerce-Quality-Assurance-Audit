@@ -36,7 +36,7 @@ My approach to testing is rooted in the belief that **Quality is an investment, 
 * **Categorization:** Functional (74), UI/UX (63), Business Logic (24), etc.
 * **Remediation Strategy:** A 3-phase stabilization roadmap (Critical -> Functional -> Polish).
 
-### 3️⃣ Automated Bug Tracking System (Live Matrix)
+### 3️⃣ [Automated Bug Tracking System (Live Matrix)](https://github.com/Abdelrahman-AA/Saudi-ECommerce-Quality-Assurance-Audit/issues)
 Instead of a static spreadsheet, I engineered a Python-based automation script to migrate the entire audit findings into a live, interactive tracking system.
 
 * **[Live Issue Tracker](https://github.com/Abdelrahman-AA/Saudi-ECommerce-Quality-Assurance-Audit/issues)**: 
