@@ -36,8 +36,17 @@ My approach to testing is rooted in the belief that **Quality is an investment, 
 * **Categorization:** Functional (74), UI/UX (63), Business Logic (24), etc.
 * **Remediation Strategy:** A 3-phase stabilization roadmap (Critical -> Functional -> Polish).
 
-### 3️⃣ [Bug Tracking Sheet (Full Matrix)](YOUR_LINK_HERE)
-*The raw data containing every single bug with steps to reproduce, screenshots, and impact analysis.*
+### 3️⃣ Automated Bug Tracking System (Live Matrix)
+Instead of a static spreadsheet, I engineered a Python-based automation script to migrate the entire audit findings into a live, interactive tracking system.
+
+* **[Live Issue Tracker](https://github.com/Abdelrahman-AA/Saudi-ECommerce-Quality-Assurance-Audit/issues)**: 
+    Explore 170+ documented bugs categorized by severity, priority, and impact.
+* **Key Features**:
+    * **Detailed Reproduction Steps**: Each issue includes exact steps to reproduce, expected vs. actual results, and environment details.
+    * **Smart Labeling**: Categorized by `Priority` (P1-P4), `Severity` (S1-S4), and `Bug Type` (UI/UX, Business Logic, Security).
+    * **Stakeholder-Ready**: Designed for developers to filter, assign, and track fixes in real-time.
+
+> **Tip:** Use the [Labels Filter](https://github.com/Abdelrahman-AA/Saudi-ECommerce-Quality-Assurance-Audit/labels) to prioritize critical fixes (P1/S1) or explore specific categories like "Business Policies".
 
 ---
 
