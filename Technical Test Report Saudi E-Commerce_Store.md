@@ -1,5 +1,5 @@
 # 🛡️ Technical Report: Saudi E-Commerce Store
-> **Quality Assurance Comprehensive Analysis**
+> **Quality Assurance Technical Comprehensive Analysis**
 
 ---
 
