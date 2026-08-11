@@ -9,7 +9,7 @@
 | **👤 Prepared by** | Eng. Abdelrahman Abodief |
 | **📅 Date** | January 29, 2025 |
 | **🌐 Tested Website** | `[Restricted URL - Internal Environment]` |
-| **📊 Interactive Bug Tracker** | [🎫 View Issues](https://github.com/Abdelrahman-AA/Saudi-ECommerce-Quality-Assurance-Audit/issues) |
+| **📊 Interactive Bug Tracker** | [🎫 View Issues](https://github.com/Abdelrahman-AA/Saudi-ECommerce-Quality-Assurance-Audit/issues?q=is%3Aissue%20state%3Aclosed) |
 
 ---
 
