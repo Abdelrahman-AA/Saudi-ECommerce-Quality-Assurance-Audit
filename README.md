@@ -59,7 +59,7 @@ Instead of a static spreadsheet, I engineered a Python-based automation script t
 ---
 
 ## 🛠️ Testing Methodologies Used
-To ensure **100% test coverage**, the following methodologies were strictly implemented:
+**Testing covered the accessible UI workflows, business scenarios, and functional areas within the agreed scope**
 * **Equivalence Partitioning:** Exhaustive input validation.
 * **Boundary Value Analysis (BVA):** Stress testing numerical and data limits.
 * **Decision Table Testing:** Mapping complex business logic and permutations.
