@@ -39,7 +39,7 @@ My approach to testing is rooted in the belief that **Quality is an investment, 
 ### 3️⃣ [Automated Bug Tracking System (Live Matrix)](https://github.com/Abdelrahman-AA/Saudi-ECommerce-Quality-Assurance-Audit/issues)
 Instead of a static spreadsheet, I engineered a Python-based automation script to migrate the entire audit findings into a live, interactive tracking system.
 
-* **[Live Issue Tracker](https://github.com/Abdelrahman-AA/Saudi-ECommerce-Quality-Assurance-Audit/issues)**: 
+* **[Live Issue Tracker](https://github.com/Abdelrahman-AA/Saudi-ECommerce-Quality-Assurance-Audit/issues?q=is%3Aissue%20state%3Aclosed)**: 
     Explore 170+ documented bugs categorized by severity, priority, and impact.
 * **Key Features**:
     * **Detailed Reproduction Steps**: Each issue includes exact steps to reproduce, expected vs. actual results, and environment details.
